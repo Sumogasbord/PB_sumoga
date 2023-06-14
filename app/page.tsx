@@ -43,9 +43,8 @@ const RootPage = () => (
     <div className={styles.container}>
       <div>
         <h2>Welcome!</h2>
-        <p>「いんたーねっつ★丁稚」である “Sumögåsbord” の実験用ウェブページです。<br/>
-        (ちなみにこのウェブサイトはNotionを活用しています。)
-        </p>
+        <p>「いんたーねっつ★丁稚」である “Sumögåsbord” の実験用ウェブページです。</p>
+        <p>(ちなみにこのウェブサイトはNotionを活用しています。)</p>
         <p>ただいま工事中です。完成までしばらくお待ちください、</p>
       </div>
     </div>
